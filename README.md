@@ -1,6 +1,6 @@
-## Blog Hub App
+## Blog CMS App
 
-**Blog Hub** is a React blogging app powered by Firebase.
+**Blog CMS** is a React blogging app powered by Firebase.
 
 In this application, **you can publish posts with Markdown formatting**, subscribe to other users and put reactions on posts, search for posts in the database, create as many users as you want and customize them, and much more.
 
